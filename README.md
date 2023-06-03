@@ -1,10 +1,9 @@
 # Hey there, I'm Dimitar! 👋
 
 - 👨🏻‍💻 I am a Junior Full-Stack Developer, recently I finished my first passion project check it out!
-- 📈 My first project [https://aniline.vercel.app](https://aniline.vercel.app) 👀
+- 📈 My latest project [https://aniline.vercel.app](https://aniline.vercel.app) 👀
 - 🗺️ I`m based in Gotse Delchev, Bulgaria
 - 📧 You can contact me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-vlahov-04b829227/) or at dimitarvlahov24@gmail.com
-- 🧠 Currently I`m learning ReactJS
 
 ### :hammer_and_wrench: Languages and Tools
 
