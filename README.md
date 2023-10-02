@@ -6,8 +6,8 @@
 
 ### :hammer_and_wrench: Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,angular,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,git)](https://skillicons.dev)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vlahoff&theme=synthwave&hide_border=true)<br/>
