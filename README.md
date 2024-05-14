@@ -1,8 +1,7 @@
 # Hey there, I'm Dimitar! 👋
 
 - 👨🏻‍💻 I am a Front-End Developer!
-- 🗺️ I`m based in Gotse Delchev, Bulgaria
-- 📧 You can contact me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-vlahov-04b829227/) or at dimitarvlahov24@gmail.com
+- 📧 You can contact me at dimitarvlahov24@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools
 
